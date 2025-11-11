@@ -1,7 +1,7 @@
 environment:
-  name: test
-  project: cdf-bootcamp-48-test
-  validation-type: test
+  name: prod
+  project: cdf-bootcamp-48-prod
+  validation-type: prod
   selected:
     - modules/bootcamp/data_foundation
     - modules/bootcamp/ice_cream_api
